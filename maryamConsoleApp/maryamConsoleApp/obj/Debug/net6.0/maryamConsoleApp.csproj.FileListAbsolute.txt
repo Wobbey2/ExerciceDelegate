@@ -1,0 +1,15 @@
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\bin\Debug\net6.0\maryamConsoleApp.exe
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\bin\Debug\net6.0\maryamConsoleApp.deps.json
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\bin\Debug\net6.0\maryamConsoleApp.runtimeconfig.json
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\bin\Debug\net6.0\maryamConsoleApp.dll
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\bin\Debug\net6.0\maryamConsoleApp.pdb
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\obj\Debug\net6.0\maryamConsoleApp.csproj.AssemblyReference.cache
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\obj\Debug\net6.0\maryamConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\obj\Debug\net6.0\maryamConsoleApp.AssemblyInfoInputs.cache
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\obj\Debug\net6.0\maryamConsoleApp.AssemblyInfo.cs
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\obj\Debug\net6.0\maryamConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\obj\Debug\net6.0\maryamConsoleApp.dll
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\obj\Debug\net6.0\refint\maryamConsoleApp.dll
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\obj\Debug\net6.0\maryamConsoleApp.pdb
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\obj\Debug\net6.0\maryamConsoleApp.genruntimeconfig.cache
+C:\Users\domin\OneDrive\Desktop\maryam\maryamConsoleApp\maryamConsoleApp\obj\Debug\net6.0\ref\maryamConsoleApp.dll
